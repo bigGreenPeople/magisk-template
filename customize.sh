@@ -16,6 +16,8 @@ AUTOMOUNT=true
 # /system/SuiNian666/ 只是一个例子 如果你要删除其他路径 请删除那一行例子
 REPLACE="
 /system/product/app/YouTube
+/system/product/app/Maps
+/system/product/priv-app/GoogleDialer
 "
 
 ui_print "

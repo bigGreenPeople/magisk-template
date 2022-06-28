@@ -20,7 +20,6 @@ REPLACE="
 
 ui_print "
 #  注释如下：
-
 "
 
 # 这个文件 (customize.sh) 将被安装脚本在 util_functions.sh 之后 source 化（设置为环境变量）
